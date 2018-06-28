@@ -19,3 +19,7 @@ You should be all set now.
 
 #### What does all of this do ???
 What we have done now is installed required source code  with which we will be able to compile our kernel modules code.
+
+| Previous | Next |
+| --- | --- |
+| [Home](../README.md) | [1. Our First Module](../1_Our_First_Module/README.md) |

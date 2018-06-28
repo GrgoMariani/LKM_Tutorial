@@ -24,3 +24,8 @@ Here's a couple of links for you.
 
 ### Books
 [Linux Device Drivers](https://lwn.net/Kernel/LDD3/)
+
+### Other
+[OpenSourceForU tutorial](https://opensourceforu.com/tag/linux-device-drivers-series/page/2/)
+
+[Apriorit simple driver example](https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os)

@@ -88,4 +88,4 @@ All those macros are there so you can use them.
 
 | Previous | Next |
 | --- | --- |
-| [Home](../README.md) | [Example 2](../2_Devices/README.md) |
+| [0. Preparation](../0_Preparation/README.md) | [2. Devices](../2_Devices/README.md) |

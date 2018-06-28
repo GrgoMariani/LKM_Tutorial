@@ -3,9 +3,13 @@
 - - - -
 I've decided to write a different kind of tutorial on LKMs. There's a lot of tutorials online, but since this is a really complex topic one more cannot really hurt.
 It's mostly meant to __complement__ other HowTos you can find online.
-I'm familiarizing myself completely with the topic as well so don't mind if I fail to explain some things.
+I'm familiarizing myself completely with the topic as well so don't mind if I fail to touch a few things.
 
 Be sure to check the links I listed in the 'Other' directory.
+
+This tutorial should be read somewhat differently than the tutorials you might be used to by now. I'm not big on explaining things myself so I'll leave that to yourselves.
+
+__However__, what I will do here is cover a lot of ground you might not have covered by your own and leave you to your own to effing google it.
 
 - - - -
 - - - -
@@ -18,7 +22,10 @@ Installing the prereqs needed to compile your custom modules.
 
 "Hello World" as LKM.
 
-### Part 2 - ...
+### [Part 2 - Devices](2_Devices/README.md)
+Let's create a _virtual device_ we can access from __/dev__ folder.
+
+### Part 3 - Hardware
 _todo_ __todo__ _todo_ __todo__
 
 ### [Other](Other/README.md)
